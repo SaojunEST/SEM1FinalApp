@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UST Places</string>
+    <string name="hello_world"></string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_usthistory">UST History</string>
+    <string name="title_activity_places_list">List of Places</string>
+    <string name="title_activity_example_place">Example UST Place</string>
+    <string name="title_activity_usthistory2">usthistory2</string>
+    <string name="title_activity_usthistory3">usthistory3</string>
+    <string name="title_activity_usthistory4">usthistory4</string>
+    <string name="title_activity_usthistory5">usthistory5</string>
+    <string name="title_activity_albertus_magnus">AlbertusMagnus</string>
+    <string name="title_activity_ustcarpark">USTCarpark</string>
+    <string name="title_activity_beato_angelino">BeatoAngelino</string>
+    <string name="title_activity_benavides">Benavides</string>
+    <string name="title_activity_alumni_center">AlumniCenter</string>
+    <string name="title_activity_main_building">MainBuilding</string>
+    <string name="title_activity_martin_de_porres">MartinDePorres</string>
+    <string name="title_activity_raymund">Raymund</string>
+    <string name="title_activity_tan_yan_kee">TanYanKee</string>
+    <string name="title_activity_roque_ruano">RoqueRuano</string>
+
+</resources>

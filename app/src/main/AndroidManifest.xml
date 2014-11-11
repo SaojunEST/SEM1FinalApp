@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.eliteshadows.saojun.sem1application" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/splash_background"
+        android:label="UST Places"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MyActivity"
+            android:label="UST Places" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".USTHistory"
+            android:label="@string/title_activity_usthistory" >
+        </activity>
+        <activity
+            android:name=".PlacesList"
+            android:label="@string/title_activity_places_list" >
+        </activity>
+        <activity
+            android:name=".ExamplePlace"
+            android:label="@string/title_activity_example_place" >
+        </activity>
+        <activity
+            android:name=".usthistory2"
+            android:label="UST History" >
+        </activity>
+        <activity
+            android:name=".usthistory3"
+            android:label="UST History" >
+        </activity>
+        <activity
+            android:name=".usthistory4"
+            android:label="UST History" >
+        </activity>
+        <activity
+            android:name=".usthistory5"
+            android:label="UST History" >
+        </activity>
+        <activity
+            android:name=".AlbertusMagnus"
+            android:label="Albertus Magnus" >
+        </activity>
+        <activity
+            android:name=".USTCarpark"
+            android:label="UST Carpark" >
+        </activity>
+        <activity
+            android:name=".BeatoAngelino"
+            android:label="Beato Angelico" >
+        </activity>
+        <activity
+            android:name=".Benavides"
+            android:label="@string/title_activity_benavides" >
+        </activity>
+        <activity
+            android:name=".AlumniCenter"
+            android:label="Alumni Center" >
+        </activity>
+        <activity
+            android:name=".MainBuilding"
+            android:label="Main Building" >
+        </activity>
+        <activity
+            android:name=".MartinDePorres"
+            android:label="St. Martin de Porres" >
+        </activity>
+        <activity
+            android:name=".Raymund"
+            android:label="St. Raymund de Peñafort" >
+        </activity>
+        <activity
+            android:name=".TanYanKee"
+            android:label="Tan Yan Kee" >
+        </activity>
+        <activity
+            android:name=".RoqueRuano"
+            android:label="Roque Ruaño" >
+        </activity>
+    </application>
+
+</manifest>
